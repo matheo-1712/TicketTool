@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8wa6UCf66cubYgQswJ102TnUZEzWf63LEzhvcSAGqbc3ITZVhFy6+MNadTAEXzFvLo/QMr348ul+vZVIlL5dQA==",
+  "dgSpecHash": "w+uw6YzvLUTowpj2o0KDdXt7grgJ9bRu6Yrf97LhnZE9P/OW+iase9nFhHKNKT1E8K66rZ9mqdnnGfZamfu1Qw==",
   "success": true,
-  "projectFilePath": "/home/matheo/ticketool/TicketSupport/TicketSupport.csproj",
+  "projectFilePath": "/home/matheo/ticketool/src/TicketSupport.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

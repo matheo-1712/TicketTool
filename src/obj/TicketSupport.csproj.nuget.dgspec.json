@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/matheo/ticketool/TicketSupport/TicketSupport.csproj": {}
+    "/home/matheo/ticketool/src/TicketSupport.csproj": {}
   },
   "projects": {
-    "/home/matheo/ticketool/TicketSupport/TicketSupport.csproj": {
+    "/home/matheo/ticketool/src/TicketSupport.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/matheo/ticketool/TicketSupport/TicketSupport.csproj",
+        "projectUniqueName": "/home/matheo/ticketool/src/TicketSupport.csproj",
         "projectName": "TicketSupport",
-        "projectPath": "/home/matheo/ticketool/TicketSupport/TicketSupport.csproj",
+        "projectPath": "/home/matheo/ticketool/src/TicketSupport.csproj",
         "packagesPath": "/home/matheo/.nuget/packages/",
-        "outputPath": "/home/matheo/ticketool/TicketSupport/obj/",
+        "outputPath": "/home/matheo/ticketool/src/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/matheo/.nuget/NuGet/NuGet.Config"
