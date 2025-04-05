@@ -1,0 +1,50 @@
+@{
+    ViewData["Title"] = "Page de Support";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="container mt-5">
+    <h2 class="mb-4">Liste des tickets de support</h2>
+    <table class="table table-bordered table-striped table-hover">
+        <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Nom de l'utilisateur</th>
+            <th scope="col">Problème</th>
+            <th scope="col">Statut</th>
+            <th scope="col">Date de création</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <th scope="row">1</th>
+            <td>Matheo Perodeau</td>
+            <td>Problème de connexion</td>
+            <td><span class="badge bg-warning text-dark">En attente</span></td>
+            <td>2025-04-01</td>
+        </tr>
+        <tr>
+            <th scope="row">2</th>
+            <td>Alice Dupont</td>
+            <td>Erreur serveur 500</td>
+            <td><span class="badge bg-success">Résolu</span></td>
+            <td>2025-04-02</td>
+        </tr>
+        <tr>
+            <th scope="row">3</th>
+            <td>Julien Martin</td>
+            <td>Problème d'affichage</td>
+            <td><span class="badge bg-danger">Urgent</span></td>
+            <td>2025-04-03</td>
+        </tr>
+        <tr>
+            <th scope="row">4</th>
+            <td>Carla Lefevre</td>
+            <td>Problème de mot de passe</td>
+            <td><span class="badge bg-info">En cours</span></td>
+            <td>2025-04-04</td>
+        </tr>
+        </tbody>
+    </table>
+</div>
