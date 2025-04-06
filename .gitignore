@@ -1,0 +1,4 @@
+./src/out
+./src/bin
+./src/obj
+./src/dbConfig.json
