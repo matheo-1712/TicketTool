@@ -34,12 +34,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/matheo/ticketool/src/Views/Support/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VwcG9ydC9JbmRleC5jc2h0bWw=
+[/home/matheo/ticketool/src/Views/Ticket/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlja2V0L0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/matheo/ticketool/src/Views/Support/Ticket.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VwcG9ydC9UaWNrZXQuY3NodG1s
+[/home/matheo/ticketool/src/Views/Ticket/New.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlja2V0L05ldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/matheo/ticketool/src/Views/_ViewImports.cshtml]

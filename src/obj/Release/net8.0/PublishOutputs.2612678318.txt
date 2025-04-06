@@ -1,11 +1,6 @@
 /home/matheo/ticketool/src/out/TicketSupport
-/home/matheo/ticketool/src/out/out/web.config
 /home/matheo/ticketool/src/out/appsettings.Development.json
 /home/matheo/ticketool/src/out/appsettings.json
-/home/matheo/ticketool/src/out/out/appsettings.Development.json
-/home/matheo/ticketool/src/out/out/appsettings.json
-/home/matheo/ticketool/src/out/out/TicketSupport.deps.json
-/home/matheo/ticketool/src/out/out/TicketSupport.runtimeconfig.json
 /home/matheo/ticketool/src/out/TicketSupport.dll
 /home/matheo/ticketool/src/out/TicketSupport.deps.json
 /home/matheo/ticketool/src/out/TicketSupport.runtimeconfig.json

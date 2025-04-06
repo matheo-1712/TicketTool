@@ -69,8 +69,3 @@
 /home/matheo/ticketool/src/obj/Release/net8.0/scopedcss/projectbundle/TicketSupport.bundle.scp.css
 /home/matheo/ticketool/src/obj/Release/net8.0/TicketSupport.genruntimeconfig.cache
 /home/matheo/ticketool/src/obj/Release/net8.0/ref/TicketSupport.dll
-/home/matheo/ticketool/src/bin/Release/net8.0/out/web.config
-/home/matheo/ticketool/src/bin/Release/net8.0/out/appsettings.Development.json
-/home/matheo/ticketool/src/bin/Release/net8.0/out/appsettings.json
-/home/matheo/ticketool/src/bin/Release/net8.0/out/TicketSupport.deps.json
-/home/matheo/ticketool/src/bin/Release/net8.0/out/TicketSupport.runtimeconfig.json
