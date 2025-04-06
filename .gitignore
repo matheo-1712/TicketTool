@@ -1,4 +1,5 @@
-./src/out
-./src/bin
-./src/obj
-./src/dbConfig.json
+./out
+./bin
+./obj
+./dbConfig.json
+.idea
